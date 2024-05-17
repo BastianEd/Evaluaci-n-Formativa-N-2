@@ -1,6 +1,5 @@
 '''
-Mensaje para profe benja, le sere bien sinsero me costo mucho hacer el programa como lo queria hacer,
-ya que ocupe un diccionario el problema no 
+Mensaje para profe benja, le seré bien sincero no pude hacer que me salieran los Handroll que no pidió el cliente 😔
 
 '''
 
